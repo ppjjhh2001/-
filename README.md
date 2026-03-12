@@ -16,6 +16,12 @@
   - **사용자 중심:** 6년의 서비스 현장 경험을 녹여 사용자가 투덜대지 않는 직관적인 UI/UX 설계.
 - **Project Link:** https://github.com/ppjjhh2001/capstone_10
 ---
+### 공부 경험: codeup.kr
+
+- **Site Name:** CodeUp
+- **Ranking:** 479위
+- **Link:** https://codeup.kr/userinfo.php?user=parkqkdrn
+---
 
 ### 저의 개발 철학
 
@@ -34,4 +40,3 @@
 
 ---
 **Contact:** ppjjhh2001@naver.com
-**C:** https://codeup.kr/userinfo.php?user=parkqkdrn
